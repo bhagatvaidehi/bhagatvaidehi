@@ -1,3 +1,6 @@
+![logo](https://github.com/bhagatvaidehi/bhagatvaidehi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+
+
 <h1 align="center">Hi 👋, I'm Vaidehi Bhagat</h1>
 <h3 align="center">A passionate Data Analyst from Germany</h3>
 
