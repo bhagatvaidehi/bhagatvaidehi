@@ -1,4 +1,4 @@
-![logo](https://github.com/bhagatvaidehi/bhagatvaidehi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/bhagatvaidehi/bhagatvaidehi/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Vaidehi Bhagat</h1>
